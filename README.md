@@ -21,11 +21,10 @@ Just tap on the screen to answer the corresponding question framed by Voicemail.
 ![Screenshot1](screenshots/Screenshot 1.jpg)  
 
   
-  
 ![Screenshot3](/screenshots/Screenshot3.jpg)  
   
   
-![Screenshot2](/screenshots/Screenshot2.jpg)  
+![Screenshot2](screenshots/Screenshot 2.jpg)  
   
   
   
